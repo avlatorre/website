@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+* {
+    margin: 0;
+    padding: 1rem;
+}
+
+.light-bk {
+    background-color: #f7eafb; /*hsl (288, 65%, 95%)*/
+}
+.dark-bk {
+    background-color: #120415; /*hsl (288, 65%, 5%)*/
+}
+.gold-bk {
+    background-color: #bda028; /*hsl (48, 65%, 45%)*/
+}
+.cyan-bk {
+    background-color: #28bda0; /*hsl (168, 65%, 45%)*/
+}
+.violet-bk {
+    background-color: #a028bd; /*hsl (288, 65%, 45%)*/
+}
+/*main colors (gold, cyan, violet) cannot go together*/
+.light-txt {
+    color: #f7eafb; /*hsl (288, 65%, 95%)*/
+}
+.dark-txt {
+    color: #120415; /*hsl (288, 65%, 5%)*/
+}
+.gold-txt {
+    color: #bda028; /*hsl (48, 65%, 45%)*/
+}
+.cyan-txt {
+    color: #28bda0; /*hsl (168, 65%, 45%)*/
+}
+.violet-txt {
+    color: #a028bd; /*hsl (288, 65%, 45%)*/
+}
