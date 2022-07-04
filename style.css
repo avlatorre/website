@@ -15,7 +15,7 @@ body {
 .gold-bk {
     background-color: #bda028; /*hsl (48, 65%, 45%)*/
 }
-.cyan-bk {
+.turquoise-bk {
     background-color: #28bda0; /*hsl (168, 65%, 45%)*/
 }
 .violet-bk {
@@ -31,7 +31,7 @@ body {
 .gold-txt {
     color: #bda028; /*hsl (48, 65%, 45%)*/
 }
-.cyan-txt {
+.turquoise-txt {
     color: #28bda0; /*hsl (168, 65%, 45%)*/
 }
 .violet-txt {
